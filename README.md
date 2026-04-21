@@ -3,7 +3,7 @@
 I work at the intersection of 
 ```computer science```, ```bioinformatics```, and ```space biology``` 
 
-Graduate in Computer Science (Specialising in AI/ML)
+🚀 Graduate in Computer Science (Specialising in AI/ML)
 
 Pursuing MS Bioinformatics at Georgia Tech
 
