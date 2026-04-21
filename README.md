@@ -1,4 +1,4 @@
->I work at the intersection of computer science, bioinformatics, and space biology — building computational methods to understand how extreme environments impact life.
+I work at the intersection of computer science, bioinformatics, and space biology — building computational methods to understand how extreme environments impact life.
 
 # What I do
 - Analyze genomic data using bioinformatics pipelines (RNA-seq, variant analysis, phylogenetics)
