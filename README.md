@@ -1,21 +1,23 @@
 # Amey Agarwal [B.Tech CSE]
 
-I work at the intersection of 
-```computer science```, ```bioinformatics```, and ```space biology``` 
+I use ```computer science``` to solve scientific problems.
 
 🚀 Graduate in Computer Science (Specialising in AI/ML)
 
-Pursuing MS Bioinformatics at Georgia Tech
+Pursuing MS Bioinformatics & MS CSE at Georgia Tech
 
 # What I do
-- Analyze genomic data using bioinformatics pipelines (RNA-seq, variant analysis, phylogenetics)
-- Explore AI/ML applications in healthcare and space biology
-- building computational methods to understand how extreme environments impact life.
+- Using Computational methods for scientific applications : for eg. healthcare and space biology
+  - Data Analaysis  : Analyze genomic data using bioinformatics pipelines (RNA-seq, variant analysis, phylogenetics)
+  - AI/ML           : Explore AI/ML applications in healthcare and space biology
+  - Astrobiology    : building computational methods to model protein evolution and understand how extreme environments impact life.
 
 # Tech Stack
-- Languages: Python, Bash
+- Languages: Python, C, Java, Bash
 - Tools: PyTorch, Tensorflow, Nextflow
 - Domains: Explainable AI, Machine Learning, Computational Biology
+- Web : MERN and SQL
 
-# Reach me
-Open to collaborations in AI, computational biology, computational space biology
+# Selected Explainable AI Projects
+- Most Recent Project  : [ML for Protein-Protein Interactions](https://github.com/amey-agarwal/ProteinProteinInteractions)
+- IEEE Published paper : [Explainable AI for Band Selection in Hyperspectral Imaging: A Comparative Analysis](https://ieeexplore.ieee.org/document/11344040)
