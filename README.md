@@ -19,5 +19,5 @@ Pursuing MS Bioinformatics & MS CSE at Georgia Tech
 - Web : MERN and SQL
 
 # Selected Explainable AI Projects
-- Most Recent Project  : [ML for Protein-Protein Interactions](https://github.com/amey-agarwal/ProteinProteinInteractions)
+- Most Recent Project  : ML for Protein-Protein Interactions [[Github Repo](https://github.com/amey-agarwal/ProteinProteinInteractions)] [[Blog](https://ameyagarwal.vercel.app/blog/PPI-ML.html)]
 - IEEE Published paper : [Explainable AI for Band Selection in Hyperspectral Imaging: A Comparative Analysis](https://ieeexplore.ieee.org/document/11344040)
