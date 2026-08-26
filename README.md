@@ -19,5 +19,6 @@ Pursuing MS Bioinformatics & MS CSE at Georgia Tech
 - Web : MERN and SQL
 
 # Selected Explainable AI Projects
-- Most Recent Project  : ML for Protein-Protein Interactions [[Github Repo](https://github.com/amey-agarwal/ProteinProteinInteractions)] [[Blog](https://ameyagarwal.vercel.app/blog/PPI-ML.html)]
+- Most Recent Project  : BioSecurity - Sequence Perplexity as a Probing Method for Natural vs Engineered Sequences [[Github Repo](https://github.com/amey-agarwal/Biosecurity-Research-SequencePerplexity)] [[Blog](https://ameyagarwal.vercel.app/blog/sequence-perplexity.html)]
+- ML for Protein-Protein Interactions [[Github Repo](https://github.com/amey-agarwal/ProteinProteinInteractions)] [[Blog](https://ameyagarwal.vercel.app/blog/PPI-ML.html)]
 - IEEE Published paper : Explainable AI for Band Selection in Hyperspectral Imaging: A Comparative Analysis [[Link](https://ieeexplore.ieee.org/document/11344040)]
